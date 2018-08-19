@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "142185990592",
+    "project_id": "maniradiography-4dcff"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142185990592:android:c9d06e1d61e4b238",
+        "android_client_info": {
+          "package_name": "com.radisoft.mrultimate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsrq4H-hDPgyVos98mLBhFaSGHdK44Ds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-96547514-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

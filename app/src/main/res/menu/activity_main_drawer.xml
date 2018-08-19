@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/intro"
+            android:title="Intro"  >
+            <menu>
+
+                <item
+                    android:id="@+id/history"
+                    android:title="History" />
+                <item
+                    android:id="@+id/pob"
+                    android:title="Planes Of The Body" />
+                <item
+                    android:id="@+id/position"
+                    android:title="Positioning" />
+                <item
+                    android:id="@+id/project"
+                    android:title="Projection" />
+                <item
+                    android:id="@+id/cassystem"
+                    android:title="Cassette System" />
+                <item
+                android:id="@+id/expfactor"
+                android:title="Exposure Factors" />
+                <item
+                    android:id="@+id/pmeasure"
+                    android:title="Protection Measures" />
+                <item
+                    android:id="@+id/abbr"
+                    android:title="Abbreviations" />
+                <item
+                    android:id="@+id/blog"
+                    android:title="Blog" />
+                <item
+                    android:id="@+id/units"
+                    android:title="Units" />
+            </menu>
+        </item>
+        <item
+            android:id="@+id/xray"
+            android:title="X-Ray" >
+            <menu>
+                <item
+                    android:id="@+id/headneck"
+                    android:title="Head &amp; Neck" />
+                <item
+                    android:id="@+id/thorax"
+                    android:title="Thorax/Chest" />
+                <item
+                android:id="@+id/abdomen"
+                android:title="Abdomen" />
+                <item
+                    android:id="@+id/pelvis"
+                    android:title="Hip &amp; Pelvis" />
+                <item
+                    android:id="@+id/llimb"
+                    android:title="Lower Limb" />
+                <item
+                    android:id="@+id/ulimb"
+                    android:title="Upper Limb" />
+                <item
+                    android:id="@+id/vcolumn"
+                    android:title="Vertebral Column" />
+            </menu>
+        </item>
+        <item
+            android:id="@+id/other"
+            android:title="Others" >
+        <menu>
+
+        <item
+            android:id="@+id/contrast"
+            android:title="Contrast Examinations" />
+        <item
+            android:id="@+id/ct"
+            android:title="CT" />
+        <item
+            android:id="@+id/mri"
+            android:title="MRI" />
+        <item
+            android:id="@+id/ultrasound"
+            android:title="Ultrasound" />
+        <item
+            android:id="@+id/mammo"
+            android:title="Mammography" />
+        <item
+            android:id="@+id/endo"
+            android:title="Endoscopy" />
+        <item
+            android:id="@+id/tracto"
+            android:title="Tractography" />
+        <item
+            android:id="@+id/videos"
+            android:title="Videos" />
+        </menu>
+        </item>
+    </group>
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        ></item>
+    <item
+        android:id="@+id/ref"
+        android:title="Credit &amp; Reference"
+        >
+    </item>
+
+</menu>

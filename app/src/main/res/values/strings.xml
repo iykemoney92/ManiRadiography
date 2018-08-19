@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mani\'s Radiography</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_ref">Reference</string>
+    <string name="action_share">Share</string>
+    <string name="action_req_edit">Request Edit</string>
+    <string name="action_ratings">Rate App</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2705490788695665/2647723232</string>
+    <string name="admob_app_id">ca-app-pub-2705490788695665~1170990033</string>
+    <string name="rta_dialog_title">Rate this app</string>
+    <string name="rta_dialog_message">If you enjoy using this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
+    <string name="rta_dialog_ok">Rate now</string>
+    <string name="rta_dialog_cancel">Later</string>
+    <string name="rta_dialog_no">No, thanks</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="search_hint">Search...</string>
+
+</resources>
